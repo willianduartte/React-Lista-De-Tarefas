@@ -35,4 +35,13 @@ export const Container = styled.div`
     font-size: 1rem;
     border-radius: 0.25rem;
   }
+
+  @media (max-width: 376px) {
+    .image {
+      display: none;
+    }
+    input {
+      font-size: 15px;
+    }
+  }
 `
