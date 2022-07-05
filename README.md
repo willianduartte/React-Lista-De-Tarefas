@@ -7,10 +7,10 @@
     <a href="#como-usar">Como usar</a>
 </p>
 
-<img src="./lista-de-tarefas.gif">
+<img src="Lista-de-tarefas.gif">
 
 <h1 align='center'>
-    <a href="https://react-projeto-whats-app.vercel.app/">Clique aqui para Testar o app</a>
+    <a href="https://react-lista-de-tarefas.vercel.app/">Clique aqui para Testar o app</a>
 </h1>
 
 # Tecnologias
@@ -28,7 +28,7 @@ Para clonar e rodar essa aplicação você precisa ter o [Git](https://git-scm.c
 
 ```bash
 # Clonar o repositorio
-$ git Clone https://github.com/willianduartte/React-Projeto-WhatsApp
+$ git Clone https://github.com/willianduartte/React-Lista-De-Tarefas
 
 # com o repositorio selecionado no seu CDM rode
 $ npm install
