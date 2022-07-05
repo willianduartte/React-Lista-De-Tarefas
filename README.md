@@ -7,10 +7,10 @@
     <a href="#como-usar">Como usar</a>
 </p>
 
-<img src="lista-de-tarefas.gif">
+<img src="Lista-de-tarefas.gif">
 
 <h1 align='center'>
-    <a href="https://react-projeto-whats-app.vercel.app/">Clique aqui para Testar o app</a>
+    <a href="https://react-lista-de-tarefas.vercel.app/">Clique aqui para Testar o app</a>
 </h1>
 
 # Tecnologias
